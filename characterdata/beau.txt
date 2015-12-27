@@ -1,0 +1,4 @@
+name: beau
+password:  haha
+xpos: 51
+ypos: 497

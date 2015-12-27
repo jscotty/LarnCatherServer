@@ -1,0 +1,4 @@
+name: justin
+password:     haha
+xpos: 446
+ypos: 173

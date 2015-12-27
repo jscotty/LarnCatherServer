@@ -1,0 +1,4 @@
+name: ww
+password: 
+xpos: 64
+ypos: 128

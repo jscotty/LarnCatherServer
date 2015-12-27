@@ -1,0 +1,4 @@
+name: dsad
+password:  dd
+xpos: 97
+ypos: 72

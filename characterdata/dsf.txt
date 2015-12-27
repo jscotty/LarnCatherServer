@@ -1,0 +1,4 @@
+name: dsf
+password:  
+xpos: 62
+ypos: 292

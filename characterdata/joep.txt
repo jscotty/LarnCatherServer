@@ -1,0 +1,4 @@
+name: joep
+password:  haha
+xpos: 109
+ypos: 230

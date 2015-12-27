@@ -1,0 +1,4 @@
+name: a
+password:       
+xpos: 321
+ypos: 252

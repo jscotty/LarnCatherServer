@@ -1,0 +1,4 @@
+name: rocky
+password:  haha
+xpos: 137
+ypos: 586

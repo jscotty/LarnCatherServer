@@ -1,0 +1,4 @@
+name: dsa
+password:  
+xpos: 105
+ypos: 233

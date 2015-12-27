@@ -1,0 +1,4 @@
+name: bodine
+password:  haha
+xpos: 377
+ypos: 169

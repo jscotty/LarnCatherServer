@@ -1,0 +1,4 @@
+name: ramses
+password:  haha
+xpos: 26
+ypos: 303
